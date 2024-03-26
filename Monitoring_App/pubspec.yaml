@@ -1,0 +1,20 @@
+name: untitled_53117989
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_map: 6.1.0  # Update to the latest version of flutter_map compatible with Mapbox
+  mapbox_gl: ^0.16.0     # Add the Mapbox Flutter SDK dependency
+  flutter_mapbox_navigation: ^0.2.2  # Add if you're using Mapbox for navigation
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+flutter:
+  uses-material-design: true
