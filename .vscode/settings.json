@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "sstream": "cpp",
+        "system_error": "cpp",
+        "ostream": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp"
+    }
+}
